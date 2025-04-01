@@ -44,9 +44,6 @@ Users can navigate between the login and registration screens using `Intent`.
 3. Sync Gradle and build the project.
 4. Run the app on an emulator or physical device.
 
----
-
-
 
 ---
 
@@ -55,8 +52,6 @@ Users can navigate between the login and registration screens using `Intent`.
 2. The **RegisterActivity** allows users to navigate to the Login screen.
 3. The **LoginActivity** allows users to navigate to the Registration screen.
 4. `TextView` elements are used for navigation (these can be replaced with buttons for better UX).
-
----
 
 
 ---
